@@ -10,8 +10,7 @@ The tutorial teaches C++ fundamentals in a game context:
 
 We use [CMake](https://cmake.org/) so one build configuration works across Windows, macOS, and Linux, and so we can generate both Visual Studio solutions and terminal builds from the same project setup.
 
-After you successfully set up the project following the steps below and get things building, start here: [Lesson 1](Lessons/Lesson1.md)
-
+After you successfully set up the project following the steps below and get things building, make a fork of the repo and start here: [Lesson 1](Lessons/Lesson1.md)
 
 ## Project layout (and why)
 
