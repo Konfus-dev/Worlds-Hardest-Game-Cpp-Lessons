@@ -49,7 +49,7 @@ Requirements:
 - [Git](https://git-scm.com/install/) (needed when raylib is fetched from source)
 
 Suggested:
-- [Clang For Visual Studio](https://learn.microsoft.com/en-us/cpp/code-quality/clang-tidy?view=msvc-170)
+- [Clang For Visual Studio](https://learn.microsoft.com/en-us/cpp/code-quality/clang-tidy?view=msvc-170) with format on save enabled.
 
 Generate and build:
 
