@@ -74,3 +74,26 @@ Without helper scripts:
 cmake -S . -B build
 cmake --build build
 ```
+
+Feedback and TODOs:
+- Put generation before clang stuff
+- Make the not on windows stuff not feel like a required second step
+- Make a lesson that focuses on lifetime (constructor and destructor)
+- Explain how to run the application.
+- Link to following tutorial at the end of a tutorial.
+- Be explicit about public/private and explain how that works in C++
+- We should also explain header vs source files in detail.
+- We should have a tutorial that explains how things are compiled and linked and how to output intermediate and inspect it.
+- Explain copies and stack vs heap memory and how pointers refs value types deal with that.
+- Make users make a copy of player and then observe that when they modify the player isn't actually affected.
+- Also explain derefs.
+- Be sure to regularly test your changes tip!
+- (Add random tips throughout and gotchas and such)
+- The death count overlaps more UI.
+- Explain what RAII stands for and how to make something RAII (how shared pointers work under the hood).
+- Replace lesson 3 with creating our own smart pointer, this will teach all sorts of things! Copy constructors and assignment operators and how RAII works and all that!
+- Need to specify where things go.
+- Have users use std strings instaed of const char explain why.
+- Explain the different types of casting and when to use them.
+- Link to docs explaining all the things we use. (smart pointers, strings, etc..)
+- At the end of the tutorial encorage folk to go crazy and make something cool now :)
